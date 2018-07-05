@@ -1,4 +1,4 @@
-# Analisis SWOT : Case Study 8 Besar Piala Dunia 2018
+# Analisis SWOT : 2 Case Study 8 Besar Piala Dunia 2018
 
 Hai, Penasaran dengan Prediksi piala dunia 2018? kami mencoba analisis 8 team yang masuk ke 8 besar piala dunia dengan analisis SWOT dan mencoba memprediksi team yang masuk di semifinal piala dunia 2018 kali ini.
 > ***disclaimer : Prediksi Piala Dunia 2018 ini dibuat berdasarkan analisis SWOT dan tidak menjamin 100% benar ya? :)***
