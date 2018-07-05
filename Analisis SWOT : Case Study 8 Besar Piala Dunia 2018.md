@@ -6,9 +6,9 @@ Hai, Penasaran dengan Prediksi piala dunia 2018? kami mencoba analisis 8 team ya
 
 Nah, jadi apasih analisis SWOT ini dan bagaimana cara menggunakan Analisis SWOT? kita akan membahas satu per satu di dalam artikel ini.
 
->[Pengertian analisis SWOT](#Pengertian-Analisis-SWOT-dan-Penerapan-di-Piala-Dunia-2018)
+>[Pengertian analisis SWOT](#pengertian-analisis-swot-dan-penerapan-di-piala-dunia-2018)
 
-> [Analisis SWOT Tim Piala Dunia 2018 Perancis vs Uruguay](#analisis-swot-tim-piala-dunia-2018-negara-perancis-vs-negara-uruguay)
+> [Analisis SWOT Tim Piala Dunia 2018 Perancis vs Uruguay](#analisis-swot-tim-piala-dunia-2018-perancis-vs-uruguay)
 
 > [Analisis SWOT Tim Piala Dunia 2018 Brazil vs Belgia](#analisis-swot-tim-piala-dunia-2018-brazil-vs-belgia)
 
