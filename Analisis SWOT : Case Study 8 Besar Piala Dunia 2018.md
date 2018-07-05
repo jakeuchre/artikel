@@ -119,7 +119,7 @@ Selamat menyaksikan dan menikmati pertandingannya ya guys?
 
 > Jangan lewatkan [*tips, promo, berita dari domainesia*](https://www.domainesia.com/blog/) ya?
 
-## Analisis SWOT Tim Piala Dunia 2018  Brazil vs  Belgia
+## Analisis SWOT Tim Piala Dunia 2018 Brazil vs Belgia
  
  Nah pertandingan seru lainnya di 8 besar adalah Brazil vs Belgia. Siapa yang tidak kenal Brazil, tim yang dijuluki tim samba tersebut sudah sangat terkenal apalagi dalam olahraga sepakbola karena prestasi mereka, Tapi Belgia juga bukan lawan yang harus diremehkan. Mari kita lihat analisis Brazil vs Belgia satu per satu.
  ### Analisis SWOT tim Brazil 
