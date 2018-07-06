@@ -1,4 +1,4 @@
-# Analisis SWOT : 2 contoh  Case Study 8 Besar Piala Dunia 2018
+# Analisis SWOT : 2 Contoh  Case Study 8 Besar Piala Dunia 2018
 
 Hai, penasaran dengan prediksi piala dunia 2018? kami mencoba analisis 8 team yang masuk ke 8 besar piala dunia dengan analisis SWOT dan mencoba memprediksi team yang masuk di semifinal piala dunia 2018 kali ini.
 > ***disclaimer : Prediksi Piala Dunia 2018 ini dibuat berdasarkan analisis SWOT dan tidak menjamin 100% benar ya? :)***
@@ -7,17 +7,21 @@ Hai, penasaran dengan prediksi piala dunia 2018? kami mencoba analisis 8 team ya
 Nah, jadi apasih analisis SWOT ini dan bagaimana cara menggunakan analisis SWOT? kita akan membahas satu per satu di dalam artikel ini.
 
 >[Pengertian analisis SWOT](#Pengertian-Analisis-SWOT-dan-Penerapan-di-Piala-Dunia-2018)
+
+  >>
+
 > [Analisis SWOT tim piala dunia 2018 perancis vs uruguay](#Analisis-SWOT-Tim-Piala-Dunia-2018-Negara-Perancis-vs-Negara-Uruguay)
+
 > 
 
-## Pengertian analisis SWOT dan penerapan di piala dunia 2018
+## Pengertian Analisis SWOT dan Penerapan di Piala Dunia 2018
 
-Menurut [wikipedia](https://en.wikipedia.org/wiki/SWOT_analysis) analisis SWOT adalah teknik yang digunakan oleh individu maupun kelompok atau organisasi untuk mengidentifikasi ***Strengths***, ***Weakness***, ***Opportunities*** dan ***Threats***. Biasanya analisis SWOT menggunakan beberapa pertanyaan dan jawaban untuk menggali data sebagai acuan untuk membuat strategi dan rencana untuk sebuah organisasi atau individu.
+Menurut [wikipedia](https://en.wikipedia.org/wiki/SWOT_analysis) analisis SWOT adalah teknik yang digunakan oleh individu maupun kelompok atau organisasi untuk mengidentifikasi ***strengths***, ***weakness***, ***opportunities*** dan ***threats***. Biasanya analisis SWOT menggunakan beberapa pertanyaan dan jawaban untuk menggali data sebagai acuan untuk membuat strategi dan rencana untuk sebuah organisasi atau individu.
 
 ### Strengths 
 Strengths pada analisis SWOT biasanya menunjukkan kekuatan dan atau kelebihan internal. 
 Sebagai contoh ***strengths*** sendiri kamu akan melihat kekuatan dari tim yang masuk 8 besar piala dunia dari segi data statistic, formasi yang pernah digunakan, dan tentu saja pemain yang akan bermain di pertandingan 8 besar piala dunia 2018. Atau lebih mudahnya kamu bisa menanyakan pertanyaan dan menjawab pertanyaan tersebut seperti : ***berapa kali tim ini menang? siapa kontribusi pencetak gol dari tim ini? formasi apa yang sering digunakan untuk tim ini?*** dll. Lebih detail pertanyaan, akan lebih baik dalam menganalisa.
-Sebagai *contoh lain* kamu bisa mengidentifikasi ***strengths*** dalam memilih sebuah layanan hosting dan domain ketika kamu ingin [membuat website](https://www.domainesia.com/panduan/cara-membuat-website-dengan-wordpress/)  dengan [***menganalisa kelebihan domainesia***](https://www.domainesia.com/berita/kelebihan-domainesia-hosting-murah/) dari penyedia layanan hosting tersebut, silahkan dipraktekkan ya.
+Sebagai *contoh lain* kamu bisa mengidentifikasi ***strengths*** dalam memilih sebuah layanan hosting dan domain ketika kamu ingin [membuat website](https://www.domainesia.com/panduan/cara-membuat-website-dengan-wordpress/)  dengan [***menganalisa kelebihan domaiNesia***](https://www.domainesia.com/berita/kelebihan-domainesia-hosting-murah/) dari penyedia layanan hosting tersebut, silahkan dipraktekkan ya.
 
 ### *Weakness* 
 Sama halnya dengan strengths, di analisis SWOT terdapat satu hal lagi yang bisa dimaksukan sebagai faktor internal yaitu ***weakness*** . Di dalam sebuah organisasi, weakness biasanya digunakan untuk mengidentifikasi kelemahan dan memperbaiki kelemahan tersebut dengan segera. 
