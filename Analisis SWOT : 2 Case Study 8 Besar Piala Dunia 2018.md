@@ -9,11 +9,24 @@ Nah, jadi apasih analisis SWOT ini dan bagaimana cara menggunakan analisis SWOT?
 
 >[Pengertian analisis SWOT](#Pengertian-Analisis-SWOT-dan-Penerapan-di-Piala-Dunia-2018)
 
-  >>
+  >> [Apa itu strenghts?]()
+  
+  >> [Apa itu weakness?]()
+  
+  >> [Apa itu opportunity?]()
+  
+  >> [Apa itu threats?]()
 
 > [Analisis SWOT tim piala dunia 2018 perancis vs uruguay](#Analisis-SWOT-Tim-Piala-Dunia-2018-Negara-Perancis-vs-Negara-Uruguay)
 
-> 
+  >> [Analisis SWOT Tim Piala Dunia Perancis 2018](#analisis-SWOT-tim-piala-dunia-perancis-2018)
+  
+  >> [Analisis SWOT Tim Piala Dunia Uruguay 2018](#analisis-SWOT-tim-piala-dunia-uruguay-2018)
+  
+> [Analisis SWOT Tim Piala Dunia 2018 Brasil vs Belgia](#analisis-SWOT-tim-piala-dunia-2018-brasil-vs-belgia)
+
+  >> [Analisis SWOT Tim Brasil](#analisis-SWOT-tim-brasil)
+  >> [Analisis SWOT Tim Belgia](#analisis-SWOT-tim-belgia)
 
 ## Pengertian Analisis SWOT dan Penerapan di Piala Dunia 2018
 
@@ -45,7 +58,7 @@ Nah, jadi kamu sudah tahu seperti apa analisis SWOT secara umum, kita akan mengg
 
 Pasti kalian sudah tahu tim pertama yang bertemu di 8 besar adalah perancis dan uruguay. Perancis yang mengalahkan argentina sama halnya uruguay yang berhasil mengalahkan portugal akan bertemu di 8 besar. Berikut analisis SWOT yang bisa kamu cermati.
 
-### Tim Piala Dunia Perancis 2018
+### Analisis SWOT Tim Piala Dunia Perancis 2018
 #### 1. *Strenghts* untuk Perancis
 Kita akan menganalisa *strenghts* yang dimiliki tim perancis yang mencakup gaya bermain, formasi, statististik dan histori permainan dan pemain yang bermain di tim perancis.
 
@@ -73,7 +86,7 @@ Di fase grup piala dunia 2018 perancis sangat minim mencetak goal produktifitas 
  - Histori dan statistik permainan
  Perancis menggunakan strategi bertahan dalam pertandingan sebelumnya, akan sulit jika melawan uruguay yang memiliki tipe permainan yang sama, salah satu harus bermain terbuka dan kemungkinan yang bermain lebih terbuka adalah uruguay.
 
-### Tim Piala Dunia Uruguay 2018
+### Analisis SWOT Tim Piala Dunia Uruguay 2018
 #### 1. Strengths untuk Uruguay
 
 Nah sekarang giliran uruguay yang akan kita bahas untuk kelebihan dari tim uruguay. Kita akan membahas dari segi yang sama seperti *histori* dan *statistik* pertandingan, pemain dan strategi permainan.
@@ -125,7 +138,7 @@ Selamat menyaksikan dan menikmati pertandingannya ya guys?
 
 > Jangan lewatkan [*tips, promo, berita dari domainesia*](https://www.domainesia.com/blog/) ya?
 
-## Analisis SWOT Tim Piala Dunia 2018  Brasil vs  Belgia
+## Analisis SWOT Tim Piala Dunia 2018 Brasil vs Belgia
  
  Nah pertandingan seru lainnya di 8 besar adalah brasil vs belgia. Siapa yang tidak kenal brasil, tim yang dijuluki tim samba tersebut sudah sangat terkenal apalagi dalam olahraga sepakbola karena prestasi mereka, Tapi belgia juga bukan lawan yang pantas untuk diremehkan. Mari kita lihat analisis brasil vs belgia satu per satu.
  ### Analisis SWOT Tim Brasil 
