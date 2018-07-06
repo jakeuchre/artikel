@@ -192,3 +192,5 @@ Jadi kemungkinan untuk brasil 55 : Belgia 45 dan kemungkinan brasil akan lolos k
 Nah, Demikian analisis SWOT yang membahas tentang 8 besar piala dunia 2018. Dari hasil analisis diatas terdapat kemungkinan besar yang lolos ke semifinal adalah ***Perancis*** dan ***Brasil***. Kemungkinan besar ***Prancis*** dan ***Brasil*** akan berhadapan di semifinal mengulang final piala dunia tahun 1998.
 Tapi, siapa yang tahu karena bola itu bundar dan apapun bisa terjadi.
 Semoga bermanfaat dan kalau kamu pengen ikutan [promo special hosting 20%](https://www.domainesia.com/promo/) dari ***DomaiNesia*** terus pantengin kita ya.
+
+  > Baca juga [analisis swot part II 8 besar piala dunia 2018]()
