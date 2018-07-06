@@ -7,7 +7,7 @@ Hai, penasaran dengan prediksi piala dunia 2018? kami mencoba analisis 8 team ya
 
 Nah, jadi apasih analisis SWOT ini dan bagaimana cara menggunakan analisis SWOT? kita akan membahas satu per satu di dalam artikel ini.
 
->[Pengertian analisis SWOT](#Pengertian-Analisis-SWOT-dan-Penerapan-di-Piala-Dunia-2018)
+>[Pengertian analisis SWOT](#pengertian-analisis-SWOT-dan-penerapan-di-piala-dunia-2018)
 
   >> [Apa itu strenghts?]()
   
