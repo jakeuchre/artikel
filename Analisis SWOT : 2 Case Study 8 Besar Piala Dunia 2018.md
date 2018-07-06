@@ -7,46 +7,47 @@ Hai, penasaran dengan prediksi piala dunia 2018? kami mencoba analisis 8 team ya
 
 Nah, jadi apasih analisis SWOT ini dan bagaimana cara menggunakan analisis SWOT? kita akan membahas satu per satu di dalam artikel ini.
 
->[Pengertian analisis SWOT](#pengertian-analisis-SWOT-dan-penerapan-di-piala-dunia-2018)
+>[Pengertian analisis SWOT](#pengertian-analisis-swot-dan-penerapan-di-piala-dunia 2018)
 
-  >> [Apa itu strenghts?]()
+  >> [Apa itu strenghts?](#strengths-pada-analisis-swot)
   
-  >> [Apa itu weakness?]()
+  >> [Apa itu weakness?](#weakness-pada-analisis-swot)
   
-  >> [Apa itu opportunity?]()
+  >> [Apa itu opportunity?](#opportunities-pada-analisis-swot)
   
-  >> [Apa itu threats?]()
+  >> [Apa itu threats?](#threats-pada-analisis-swot)
 
-> [Analisis SWOT tim piala dunia 2018 perancis vs uruguay](#Analisis-SWOT-Tim-Piala-Dunia-2018-Negara-Perancis-vs-Negara-Uruguay)
+> [Analisis SWOT tim piala dunia 2018 perancis vs uruguay](#analisis-swot-tim-piala-dunia-2018-negara-perancis-vs-negara-uruguay)
 
-  >> [Analisis SWOT Tim Piala Dunia Perancis 2018](#analisis-SWOT-tim-piala-dunia-perancis-2018)
+  >> [Analisis SWOT Tim Piala Dunia Perancis 2018](#analisis-swot-tim-piala-dunia-perancis-2018)
   
-  >> [Analisis SWOT Tim Piala Dunia Uruguay 2018](#analisis-SWOT-tim-piala-dunia-uruguay-2018)
+  >> [Analisis SWOT Tim Piala Dunia Uruguay 2018](#analisis-swot-tim-piala-dunia-uruguay-2018)
   
-> [Analisis SWOT Tim Piala Dunia 2018 Brasil vs Belgia](#analisis-SWOT-tim-piala-dunia-2018-brasil-vs-belgia)
+> [Analisis SWOT Tim Piala Dunia 2018 Brasil vs Belgia](#analisis-swot-tim-piala-dunia-2018-brasil-vs-belgia)
 
-  >> [Analisis SWOT Tim Brasil](#analisis-SWOT-tim-brasil)
-  >> [Analisis SWOT Tim Belgia](#analisis-SWOT-tim-belgia)
+  >> [Analisis SWOT Tim Brasil](#analisis-swot-tim-brasil)
+  
+  >> [Analisis SWOT Tim Belgia](#analisis-swot-tim-belgia)
 
 ## Pengertian Analisis SWOT dan Penerapan di Piala Dunia 2018
 
 Menurut [wikipedia](https://en.wikipedia.org/wiki/SWOT_analysis) analisis SWOT adalah teknik yang digunakan oleh individu maupun kelompok atau organisasi untuk mengidentifikasi ***strengths***, ***weakness***, ***opportunities*** dan ***threats***. Biasanya analisis SWOT menggunakan beberapa pertanyaan dan jawaban untuk menggali data sebagai acuan untuk membuat strategi dan rencana untuk sebuah organisasi atau individu.
 
-### Strengths 
+### Strengths Pada Analisis SWOT 
 Strengths pada analisis SWOT biasanya menunjukkan kekuatan dan atau kelebihan internal. 
 Sebagai contoh ***strengths*** sendiri kamu akan melihat kekuatan dari tim yang masuk 8 besar piala dunia dari segi data statistik, formasi yang pernah digunakan, dan tentu saja pemain yang akan bermain di pertandingan 8 besar piala dunia 2018. Atau lebih mudahnya kamu bisa menanyakan pertanyaan dan menjawab pertanyaan tersebut seperti : ***berapa kali tim ini menang? siapa kontribusi pencetak gol dari tim ini? formasi apa yang sering digunakan untuk tim ini?*** dll. Lebih detail pertanyaan, akan lebih baik dalam menganalisa.
 Sebagai contoh lain kamu bisa mengidentifikasi ***strengths*** dalam memilih sebuah layanan hosting dan domain ketika kamu ingin [membuat website](https://www.domainesia.com/panduan/cara-membuat-website-dengan-wordpress/)  dengan [***menganalisa kelebihan DomaiNesia***](https://www.domainesia.com/berita/kelebihan-domainesia-hosting-murah/) dari penyedia layanan hosting tersebut, silahkan dipraktikkan ya.
 
-### *Weakness* 
+### Weakness Pada Analisis SWOT
 Sama halnya dengan strengths, di analisis SWOT terdapat satu hal lagi yang bisa dimaksukan sebagai faktor internal yaitu ***weakness*** . Di dalam sebuah organisasi, weakness biasanya digunakan untuk mengidentifikasi kelemahan dan memperbaiki kelemahan tersebut dengan segera. 
 Untuk penerapan di tim 8 besar tim piala dunia 2018 ini adalah sebagai berikut :  ***kebobolan dari sisi mana apakah bek sayap, bek tengah?* *statistik pertandingan seperti penguasaan bola dan shoot on target?*** dengan demikian kita bisa menganalisa kelemahan kita dan memperbaiki dengan hasil yang baik.
 Atau sebagai contoh lain dalam hal memilih hosting server bisa dengan dengan menyakan pertanyaan seperti *apakah ada [garansi uptime](https://www.domainesia.com/hosting/)?* biasanya layanan hosting yang bagus memberikan garansi uptime 99,99%.
 
-### *Opportunities*
+### Opportunities Pada Analisis SWOT
 Dalam analisis swot, opportunities sendiri merupakan faktor eksternal dari individu atau organisasi yang bisa digunakan untuk keuntungan mereka. Sebagai contoh pertama ketika kamu hendak memilih layanan hosting, hal yang dipertimbangkan adalah seperti ketika kita membeli sebuah hosting *apakah ada layanan seperti [beli hosting gratis domain](https://www.domainesia.com/hosting/)*? 
 , atau di kasus 8 besar piala dunia 2018 ini adalah pertanyaan seperti *berapa jeda waktu saat terakhir mereka bertanding? estimasi pengalaman atau jam terbang dari tim tersebut?*
 
-### *Threats* 
+### Threats Pada Analisis SWOT
 Threats dalam analisis SWOT merupakan faktor eksternal yang berpengaruh buruk yang mempengaruhi dari sebuah organisasi dan atau individu. Sebagai contoh ketika kita memilih sebuah layanan hosting adalah dengan mempertimbangkan [faktor keamaan dari server](https://www.domainesia.com/hosting/).
 Dan untuk studi kasus dari 8 besar piala dunia ini adalah dengan mempertimbangkan faktor faktor seperti, *apakah pemain yang inti dari tim tersebut bermain? jika tidak apakah ada pengganti yang sepadan.*
 
