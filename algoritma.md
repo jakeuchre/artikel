@@ -1,19 +1,19 @@
 
-# Algoritma Google 2018 : Daftar List Update terbaru Algoritma google.
+# Algoritma Google Terbaru 2018 : Daftar dan List Update terbaru Algoritma google.
 
-Anda ingin tahu update algoritma google terbaru? tetapi setelah mencari di internet, anda tidak menemukan algoritma yang benar benar update?, nah berikut adalah daftar algoritma terbaru google yang akan kami rangkum dan update setiap kali ada update terbaru. 
+Kamu ingin tahu update algoritma google terbaru? tetapi setelah mencari di internet, kamu tidak menemukan algoritma yang benar benar update?, nah berikut adalah daftar algoritma terbaru google yang akan kami rangkum dan update setiap kali ada update terbaru. 
 
 Di artikel kali ini kami akan coba membuat daftar algoritma google (daftar algoritma update yang paling penting dan paling baru).
 
-Jika anda pernah mendengar tentang algoritma penguin, rankbrain, anda sudah mengetahui beberapa jenis algoritma google yang telah dirilis oleh google.
+Jika kamu pernah mendengar tentang algoritma penguin, rankbrain, kamu sudah mengetahui beberapa jenis algoritma google yang telah dirilis oleh google.
 
-Tapi, apa itu algoritma? dan apa pengaruhnya dengan website anda? 
+Tapi, apa itu algoritma? dan apa pengaruhnya dengan website kamu? 
 
 > Artikel terkait: [*5 jurus jitu untuk membuat website dari Nol*](https://www.domainesia.com/tips/cara-membuat-website-dari-nol/)
 
-Algoritma adalah metode atau perhitungan yang digunakan untuk menyelesaikan suatu masalah secara terstruktur. Algoritma kebanyakan digunakan untuk permasalahan perhitungan yang dilakukan oleh komputer.
+Algoritma adalah metode atau perhitungan yang digunakan untuk menyelesaikan suatu masalah secara terstruktur. Algoritma pada umumnya digunakan untuk menyelesaian permasalahan perhitungan yang dilakukan oleh komputer.
 
-Kata algoritma merupakan kata yang berasal dari tulisan seorang matematikawan bernama [*Muhammad ibn Musa al-Khwarizmi*](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi), beliau menulis sebuah tulisan dalam bahasa arab yang kemudian di terjemahkan ke bahasa latin dengan judul "***Algoritmi on the numbers of the Indians***".
+Kata algoritma adalah kata yang berasal dari tulisan seorang matematikawan bernama [*Muhammad ibn Musa al-Khwarizmi*](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi), beliau menulis sebuah tulisan dalam bahasa arab yang kemudian di terjemahkan ke bahasa latin dengan judul "***Algoritmi on the numbers of the Indians***".
 
 Lalu, apa itu algoritma google? kita akan membahasnya sebentar lagi. 
 
@@ -57,7 +57,9 @@ Update algoritma google yang pernah dirilis sebelumnya telah mengubah citra goog
 Berikut adalah algoritma terpenting yang pernah diluncurkan oleh google:
 
 ### 1. RankBrain (Algoritma yang menggunakan teknologi AI atau Artificial Intelegence)
-Rankbrain merupakan algoritma berbasis AI atau Artificial Intelegence, pertama dikenalkan oleh google pada bulan *oktober 2015*. RankBrain  merupakan salah satu algoritma utama yang digunakan untuk menyaring konten di dalam database google, walaupun rankbrain menjadi faktor utama bukan berarti rankbrain menggantikan algoritma yang lain.
+Rankbrain 
+
+algoritma berbasis AI atau Artificial Intelegence, pertama dikenalkan oleh google pada bulan *oktober 2015*. RankBrain  adalah salah satu algoritma utama yang digunakan untuk menyaring konten di dalam database google, walaupun rankbrain menjadi faktor utama bukan berarti rankbrain menggantikan algoritma yang lain.
 
 Berdasarkan search engine journal, Google mejelaskan salah satu contoh RankBrain adalah ketika anda mencari sebuah kata kunci atau keywords, misal "hosting murah", hasil pencarian yang anda cari akan berbeda ketika anda mencari di negara lain, misal india.
 
@@ -66,7 +68,7 @@ Ketika Google pertama kali keluar dengan menawarkan search engine atau mesin pen
 
 Kemudian pada tahun 2013, Google mengumumkan sebuah nama untuk algoritma pencarian miliknya dan nama tersebut adalah "*hummingbird*".
 
-Di dalam *hummingbird* sendiri terdapat banyak bagian algoritma seperti rankbrain, penguin, panda yang merupakan bagian dari hummingbird.
+Di dalam *hummingbird* sendiri terdapat banyak bagian algoritma seperti rankbrain, penguin, panda yang juga bagian dari hummingbird.
 
 Jadi hummingbird adalah algoritma inti dari google yang berfungsi untuk menampilkan kata kunci atau keywords yang kita ketikkan di search engine atau mesin pencarian google.
 
